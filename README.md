@@ -1,7 +1,7 @@
 
 # API Auth
 
-This is an authentication system (microservice) but with Laravel 11.
+This is an authentication system (microservice) built with Laravel 11.
 
 - The authentication is handled by Laravel sanctum.
 - There are feature tests for each endpoints written with Pest PHP.
